@@ -1,0 +1,23 @@
+Flood Scope,Subgroup,Counties,IHS Count Burden,IHS Count 95% CI,Observed OOD (all)
+1st Flood Only,All Population,118,741,"[246; 1236]",11744
+Total (1st + Repeat),All Population,118,1368,"[695; 2040]",11744
+1st Flood Only,Male,118,554,"[165; 942]",7447
+Total (1st + Repeat),Male,118,974,"[424; 1524]",7447
+1st Flood Only,Female,118,363,"[107; 620]",4297
+Total (1st + Repeat),Female,118,583,"[230; 936]",4297
+1st Flood Only,White,118,732,"[244; 1220]",11414
+Total (1st + Repeat),White,118,1346,"[682; 2010]",11414
+1st Flood Only,Non-White,118,26,"[-37; 90]",330
+Total (1st + Repeat),Non-White,118,37,"[-53; 127]",330
+1st Flood Only,Low Education,118,644,"[217; 1071]",8339
+Total (1st + Repeat),Low Education,118,1219,"[626; 1812]",8339
+1st Flood Only,High Education,118,158,"[-25; 340]",1963
+Total (1st + Repeat),High Education,118,221,"[-38; 480]",1963
+1st Flood Only,Distressed,46,454,"[80; 828]",4770
+Total (1st + Repeat),Distressed,46,1101,"[560; 1643]",4770
+1st Flood Only,Non-Distressed,72,290,"[-61; 641]",6974
+Total (1st + Repeat),Non-Distressed,72,426,"[-31; 883]",6974
+1st Flood Only,Low MDI,61,570,"[194; 947]",5903
+Total (1st + Repeat),Low MDI,61,1229,"[701; 1757]",5903
+1st Flood Only,High MDI,57,120,"[-193; 432]",5841
+Total (1st + Repeat),High MDI,57,163,"[-247; 573]",5841
