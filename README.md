@@ -1,5 +1,7 @@
 # Severe Floods and Long-Term Opioid Overdose Mortality — Replication Package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20722600.svg)](https://doi.org/10.5281/zenodo.20722600)
+
 Replication code and (de-identified) data for the analyses in the paper. The analysis estimates
 the effect of severe flooding on county-level opioid overdose mortality in rural Appalachian
 counties using a Sun and Abraham (2021) event-study design.
@@ -47,8 +49,8 @@ migration) are public and included with full values.
 ## Data Availability Statement (draft for the manuscript)
 
 > All analysis code is publicly available at
-> `https://github.com/<your-account>/flood_increase_long_term_opioid_mortality` and archived at
-> Zenodo (DOI: `<to be minted>`). All data needed to reproduce the analyses are publicly available
+> https://github.com/MengjunOK/flood_increase_long_term_opioid_mortality and archived at Zenodo
+> (DOI: 10.5281/zenodo.20722600). All data needed to reproduce the analyses are publicly available
 > except the county-level opioid overdose death counts, which derive from the CDC/NCHS
 > Restricted-Use Multiple Cause of Death micro-data and cannot be redistributed under the NCHS
 > data-use agreement. A suppressed (counts < 10 removed) public version can be obtained from CDC
@@ -56,8 +58,6 @@ migration) are public and included with full values.
 > via NCHS proposal review (https://www.cdc.gov/nchs/nvss/nvss-restricted-data.htm). The repository
 > includes the full data structure with these variables set to missing, together with the ICD-10
 > code definitions needed to reconstruct them.
-
-(Replace the GitHub URL and Zenodo DOI once created.)
 
 ## License
 
